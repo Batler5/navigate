@@ -1,0 +1,7 @@
+sugar=0
+water=0
+spirt=0
+aroma=0
+gas=0
+juicekoncetr=0
+kras=0

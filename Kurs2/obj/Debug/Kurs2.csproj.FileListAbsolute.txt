@@ -1,0 +1,59 @@
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.exe.config
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.exe
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.pdb
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.csprojAssemblyReference.cache
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.Form1.resources
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.Properties.Resources.resources
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.GenerateResource.cache
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.CoreCompileInputs.cache
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.exe
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.pdb
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.AlcoholForm.resources
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.LemonForm.resources
+C:\Users\ШВАЙЗАР\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.JuiceForm.resources
+F:\Kurs2\Kurs2\bin\Debug\Kurs2.exe.config
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.exe
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.pdb
+F:\Kurs2\Kurs2\bin\Debug\Kurs2.exe
+F:\Kurs2\Kurs2\bin\Debug\Kurs2.pdb
+F:\Kurs2\Kurs2\bin\Debug\mscorlib.dll
+F:\Kurs2\Kurs2\bin\Debug\ru\mscorlib.resources.dll
+F:\Kurs2\Kurs2\bin\Debug\normidna.nlp
+F:\Kurs2\Kurs2\bin\Debug\normnfc.nlp
+F:\Kurs2\Kurs2\bin\Debug\normnfd.nlp
+F:\Kurs2\Kurs2\bin\Debug\normnfkc.nlp
+F:\Kurs2\Kurs2\bin\Debug\normnfkd.nlp
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.csprojResolveAssemblyReference.cache
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.AlcoholForm.resources
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.Form1.resources
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.JuiceForm.resources
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.LemonForm.resources
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.Properties.Resources.resources
+F:\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.GenerateResource.Cache
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\bin\Debug\Kurs2.exe.config
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\bin\Debug\Kurs2.exe
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\bin\Debug\Kurs2.pdb
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.csprojAssemblyReference.cache
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.AlcoholForm.resources
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.Form1.resources
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.JuiceForm.resources
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.LemonForm.resources
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.Properties.Resources.resources
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.GenerateResource.cache
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.CoreCompileInputs.cache
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.exe
+C:\Users\ШВАЙЗАР\Desktop\Kurs2\Kurs2\obj\Debug\Kurs2.pdb
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\bin\Debug\Kurs2.exe.config
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\bin\Debug\Kurs2.exe
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\bin\Debug\Kurs2.pdb
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.AssemblyReference.cache
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.SuggestedBindingRedirects.cache
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.AlcoholForm.resources
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.Form1.resources
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.JuiceForm.resources
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.LemonForm.resources
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.Properties.Resources.resources
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.GenerateResource.cache
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.CoreCompileInputs.cache
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.exe
+E:\УЧЕБАА\Visual Studio\Kurs2\Kurs2\obj\Debug\Kurs2.pdb

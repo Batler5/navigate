@@ -1,0 +1,7 @@
+sugar=99,72
+water=91,6
+spirt=98,95
+aroma=98,88
+gas=100
+juicekoncetr=100
+kras=100

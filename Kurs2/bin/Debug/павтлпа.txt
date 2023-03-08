@@ -1,0 +1,7 @@
+sugar=100
+water=100
+spirt=100
+aroma=100
+gas=100
+juicekoncetr=100
+kras=100
